@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Task</id>
+    <version>1.0.0</version>
+    <authors>Task</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net8.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\NoreX\Desktop\TestTask\Task\bin\Debug\net8.0\Task.runtimeconfig.json" target="lib\net8.0\Task.runtimeconfig.json" />
+    <file src="C:\Users\NoreX\Desktop\TestTask\Task\bin\Debug\net8.0\Task.dll" target="lib\net8.0\Task.dll" />
+  </files>
+</package>
